@@ -1,0 +1,9 @@
+,count,unique,top,freq
+current_status,8319,2,Laboratory-confirmed case,7261
+sex,8319,5,Female,4261
+age_group,8319,10,20 - 29 Years,1355
+race_ethnicity_combined,8319,9,"White, Non-Hispanic",3135
+hosp_yn,8319,4,No,4214
+icu_yn,8319,4,Missing,6523
+death_yn,8319,2,No,8198
+medcond_yn,8319,4,Missing,6394
